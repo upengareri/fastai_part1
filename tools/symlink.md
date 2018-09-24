@@ -1,5 +1,4 @@
 ## Symlink
----
 
 A symlink or symbolic link is a shortcut path that points to the original path.
 

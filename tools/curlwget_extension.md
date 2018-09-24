@@ -1,5 +1,5 @@
 ## Curlwget
----
+
 It is a plugin to quickly download any file from internet through a console.
 
 ### Why use it?

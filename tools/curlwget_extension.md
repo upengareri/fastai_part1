@@ -14,6 +14,8 @@ It maintains the session when downloading large files over an unstable internet 
 
 * Click on the curlwget yellow button and paste the whole text into your terminal.
 
+---
+
 _Note_: The file gets downloaded on your terminal path.
 
 _Note_: Sometimes, I have found that some pages do not load quickly while browsing because of curlwget extension

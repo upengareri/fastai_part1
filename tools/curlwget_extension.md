@@ -7,9 +7,10 @@ It maintains the session when downloading files over an unstable internet connec
 
 #### How to use it?
 > Install the curlwget extension in Chrome.
+
 > Start the download (the way you download normally) and then cancel it.
 
-! [cancel download](../images/cancel_download.png)
+![cancel download](../images/cancel_download.png)
 
 > Click on the curlwget yellow button and paste the whole text into your terminal.
 

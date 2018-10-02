@@ -4,6 +4,7 @@ It is a plugin to quickly download any file from internet through a console.
 
 ### Why use it?
 It maintains the session when downloading large files over an unstable internet connection.
+Also useful when the download item is hidden behind login.
 
 ### How to use it?
 

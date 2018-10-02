@@ -19,7 +19,7 @@ It maintains the session when downloading large files over an unstable internet 
 
 _Note_: The file gets downloaded on your terminal path.
 
-_Note_: If wget is not installed in your machine then use <kbd>brew install wget</kbd> to install it.
+_Note_: If wget is not installed in your machine then use <kbd>brew install wget</kbd> (Mac) to install it.
 
 _Note_: Sometimes, I have found that some pages do not load quickly while browsing because of curlwget extension
         (Says, waiting for curlwget extension in the browser (bottom leftmost part)). In that case, just go to 
